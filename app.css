@@ -1,0 +1,20 @@
+/*Styling the html file*/
+*,
+*::before,
+*::after{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+/*declaring the color of the body*/
+:root{
+ --dark-grey:#0a0a23;
+ --white:#ffffff;
+ --yellow:#f1be32;
+}
+/*styling the body*/
+body{
+    color:var(--white);
+    background-color:var(--dark-grey);
+}
+/*styling the container-title*/
