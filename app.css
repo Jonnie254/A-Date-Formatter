@@ -79,5 +79,8 @@ select{
 .select-icon svg.icon{
     transition:fill 0.3s ease;
     fill:var(--dark-grey);
-
+}
+#current-date{
+    font-size: 2rem;
+    text-align:center;
 }
