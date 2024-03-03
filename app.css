@@ -84,6 +84,7 @@ select{
     font-size: 2rem;
     text-align:center;
 }
+/*Styling the media query*/
 @media (max-width: 375px){
     .title{
         font-size: 2rem;
