@@ -84,3 +84,14 @@ select{
     font-size: 2rem;
     text-align:center;
 }
+@media (max-width: 375px){
+    .title{
+        font-size: 2rem;
+    }
+    .dropdown-container{
+        width:80%;
+    }
+    .date-svg{
+        display:none;
+}
+}
